@@ -1,0 +1,7 @@
+#!/bin/bash
+
+hcc main.HC -o main
+clear
+./main
+rm main
+
